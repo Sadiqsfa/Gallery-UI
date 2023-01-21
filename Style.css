@@ -1,0 +1,87 @@
+#c1 {
+  height: 535px;
+  width: 634px;
+  left: 67px;
+  top: 180px;
+  border-radius: 0px;
+  padding: 5px;
+}
+#c2 {
+  height: 240px;
+  width: 634px;
+  left: 67px;
+  top: 771px;
+  border-radius: 0px;
+  padding: 5px;
+}
+#c3 {
+  height: 261px;
+  width: 300px;
+  left: 735px;
+  top: 180px;
+  border-radius: 0px;
+  padding: 5px;
+}
+#c4 {
+  height: 261px;
+  width: 300px;
+  left: 1069px;
+  top: 180px;
+  border-radius: 0px;
+  padding: 5px;
+}
+#c5 {
+  height: 261px;
+  width: 300px;
+  left: 735px;
+  top: 479px;
+  border-radius: 0px;
+  padding: 5px;
+}
+#c6 {
+  height: 261px;
+  width: 300px;
+  left: 1069px;
+  top: 479px;
+  border-radius: 0px;
+  padding: 5px;
+}
+#c7 {
+  height: 238px;
+  width: 634px;
+  left: 735px;
+  top: 771px;
+  border-radius: 0px;
+  padding: 5px;
+  z-index: -2;
+}
+#text {
+    z-index: 100;
+    position: absolute;
+    width: 276px;
+    height: 51px;
+    left: 1093px;
+    top: 942px;
+  
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 51px;
+    /* identical to box height */
+  
+    color: #000000;
+  }
+.section1 {
+    float: left;
+    padding: 5px;
+}
+.section2 {
+  float: inline-end;
+  padding: 5px;
+}
+.place{
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
